@@ -19,8 +19,4 @@ Carolina - Statistician
 
 Yessica - Epidemiologists
 
-Eliana - Epidemiologists
-
-Yuri
-
 Daniel - Data scientist
