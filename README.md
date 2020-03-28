@@ -1,14 +1,7 @@
 ![AIEpimetrics](https://github.com/denphi/epiAI/blob/master/epiAI.png)
 
-# Datum
-
-## Colombia
-### Census
-
-[Dane :](http://microdatos.dane.gov.co/index.php/catalog/643/data_dictionary)
-
-[Covid cases :](https://coronaviruscolombia.gov.co/Covid19/index.html)
-
+# Detección temprana de individuos asintomáticos optimizando un limitado número de pruebas de diagnóstico para COVID-19. 
+[Caso de estudio: Comunas ciudad de Medellín](https://github.com/denphi/aiepimetrics/blob/master/Covid2019.pdf)
 
 ## Team
 
@@ -38,4 +31,14 @@
 * M.Sc. Realidad Virtual, Universidad de los Andes – Bogotá
 * Ingeniero de Sistemas y Computación, Universidad de los Andes – Bogotá
 
+
+# Datum
+
+## Colombia
+
+### Census
+
+[Dane :](http://microdatos.dane.gov.co/index.php/catalog/643/data_dictionary)
+
+[Covid cases :](https://coronaviruscolombia.gov.co/Covid19/index.html)
 
