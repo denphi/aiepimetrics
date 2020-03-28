@@ -1,5 +1,5 @@
-# epiAI
-![epiAI](https://github.com/denphi/epiAI/blob/master/epiAI.png)
+# AIEepimetrics
+![AIEepimetrics](https://github.com/denphi/epiAI/blob/master/epiAI.png)
 
 # Datum
 
