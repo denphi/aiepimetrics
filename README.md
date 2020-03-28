@@ -8,7 +8,6 @@
 Los resultados de la simulación pueden consultarse en los siguientes enlaces:
 * [Mapa por comunas](https://public.tableau.com/profile/carolina.gonzalez2088#!/vizhome/DB1_Simulation_COVID19-Medellin/Dashboard1)
 * [Perfiles de riesgo](https://public.tableau.com/profile/carolina.gonzalez2088#!/vizhome/DB2_Simulation_COVID19-Medellin/Dashboard2)
-Información adicional puede ser encontrada en:
 
 ## Team
 
